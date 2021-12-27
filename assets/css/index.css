@@ -3,6 +3,7 @@
   font-family: "Gumball";
   src: url("gumball/Gumball.ttf");
 }
+@media only screen and (max-width:600px){}
 body{
   background-image: url(https://w.wallha.com/ws/9/UXwWaE5S.jpg);
   background-repeat: no-repeat;
